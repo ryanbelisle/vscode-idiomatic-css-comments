@@ -2,7 +2,7 @@
     "name": "vscode-idiomatic-css-comments",
     "displayName": "VS Code Idiomatic CSS Comments",
     "description": "CSS and Sass style comments for Visual Studio Code based on Nicolas Gallagher's Idiomatic CSS principles",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "ryanbelisle",
     "engines": {
         "vscode": "^1.0.0"
