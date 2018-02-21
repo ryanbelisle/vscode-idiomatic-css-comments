@@ -2,7 +2,7 @@
     "name": "vscode-idiomatic-css-comments",
     "displayName": "VS Code Idiomatic CSS Comments",
     "description": "CSS and Sass style comments for Visual Studio Code based on Nicolas Gallagher's Idiomatic CSS principles",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "ryanbelisle",
     "engines": {
         "vscode": "^1.0.0"
@@ -18,7 +18,8 @@
     ],
     "icon": "",
     "contributes": {
-        "snippets": [{
+        "snippets": [
+            {
                 "language": "css",
                 "path": "./snippets/vscode-idiomatic-css-comments.code-snippets"
             },
@@ -33,7 +34,6 @@
             {
                 "language": "html",
                 "path": "./snippets/vscode-idiomatic-css-comments.code-snippets"
-
             },
             {
                 "language": "jsx",
