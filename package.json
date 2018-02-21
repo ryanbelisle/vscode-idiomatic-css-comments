@@ -20,28 +20,28 @@
     "contributes": {
         "snippets": [{
                 "language": "css",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/vscode-idiomatic-css-comments.code-snippets"
             },
             {
                 "language": "less",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/vscode-idiomatic-css-comments.code-snippets"
             },
             {
                 "language": "scss",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/vscode-idiomatic-css-comments.code-snippets"
             },
             {
                 "language": "html",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/vscode-idiomatic-css-comments.code-snippets"
 
             },
             {
                 "language": "jsx",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/vscode-idiomatic-css-comments.code-snippets"
             },
             {
                 "language": "javascript",
-                "path": "./snippets/snippets.json"
+                "path": "./snippets/vscode-idiomatic-css-comments.code-snippets"
             }
         ]
     }

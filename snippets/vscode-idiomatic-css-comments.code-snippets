@@ -1,0 +1,62 @@
+{
+	"comment-idiomatic-css-basic": {
+		"prefix": "com-idio-css-basic",
+		"body": "/* ${1:Basic Comment} */",
+		"description": "Idiomatic CSS - Basic Comment",
+		"scope": ""
+	},
+	"comment-idiomatic-css-long": {
+		"prefix": "com-idio-css-long",
+		"body": "/**\n * ${1:Longer Descriptor Comment}\n */",
+		"description": "Idiomatic CSS - Longer Descriptor Comment",
+		"scope": ""
+	},
+	"comment-idiomatic-css-section": {
+		"prefix": "com-idio-css-section",
+		"body": "/* ==========================================================================\n   ${1:Section Comment Block}\n   ========================================================================== */\n\n${2}",
+		"description": "Idiomatic CSS - Section Comment Block",
+		"scope": ""
+	},
+	"comment-idiomatic-css-sub": {
+		"prefix": "com-idio-css-sub",
+		"body": "/*\n   ${1:Sub-Section Comment Block}\n   ========================================================================== */\n\n${2}",
+		"description": "Idiomatic CSS - Sub-Section Comment Block",
+		"scope": ""
+	},
+	"comment-idiomatic-css-todo": {
+		"prefix": "com-idio-css-todo",
+		"body": "/**\n * @TODO\n * ${1}\n */\n\n${2}",
+		"description": "Idiomatic CSS - Todo Comment",
+		"scope": ""
+	},
+	"comment-idiomatic-scss-basic": {
+		"prefix": "com-idio-scss-basic",
+		"body": "// ${1:(SCSS) Basic Comment}",
+		"description": "Idiomatic CSS - (SCSS) Basic Comment",
+		"scope": ""
+	},
+	"comment-idiomatic-scss-long": {
+		"prefix": "com-idio-scss-long",
+		"body": "//\n// ${1:(SCSS) Long Descriptor Comment}\n//",
+		"description": "Idiomatic CSS - (SCSS) Long Descriptor Comment",
+		"scope": ""
+	},
+	"comment-idiomatic-scss-section": {
+		"prefix": "com-idio-scss-section",
+		"body": "// ==========================================================================\n// ${1:(SCSS) Section Comment Block}\n// ==========================================================================\n\n${2}",
+		"description": "Idiomatic CSS - (SCSS) Section Comment Block",
+		"scope": ""
+	},
+	"comment-idiomatic-scss-sub": {
+		"prefix": "com-idio-scss-sub",
+		"body": "//\n// ${1:(SCSS) Sub-Section Comment Block}\n// ==========================================================================\n\n${2}",
+		"description": "Idiomatic CSS - (SCSS) Sub-Section Comment Block",
+		"scope": ""
+	},
+	"comment-idiomatic-scss-todo": {
+		"prefix": "com-idio-scss-todo",
+		"body": "//\n// @TODO\n// ${1}\n//\n\n${2}",
+		"description": "Idiomatic CSS - (SCSS) Todo Comment",
+		"scope": ""
+	}
+}
